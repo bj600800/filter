@@ -1,0 +1,2 @@
+﻿GeneID,A10,A2,A8,A1,A9,A7,A5,A3,A4,A6,Total,Subject,Entry name,EC number,Protein names,Gene names,Organism,Length,Pathway,Cross-reference (KEGG),Signal peptide,Protein families
+A8_k97_13_gene_1_1,0,0,8,0,0,0,0,0,0,0,8,A1VDR1,PTH_DESVV,3.1.1.29,Peptidyl-tRNA hydrolase (PTH) (EC 3.1.1.29),pth Dvul_1560,Desulfovibrio vulgaris subsp. vulgaris (strain DP4),201,Null,dvl:Dvul_1560;,Null,PTH family
